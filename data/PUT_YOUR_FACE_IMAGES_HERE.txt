@@ -1,0 +1,8 @@
+Put your training images in this folder (subfolders are fine, they're
+scanned recursively). Accepted formats: .jpg, .jpeg, .png, .bmp, .webp
+
+See README.md section 5 ("Getting a face dataset") for where to get a
+face dataset (your own photos, CelebA, or FFHQ).
+
+This file is just a placeholder so the empty folder ships with the project
+-- delete it once you've added real images.
